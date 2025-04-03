@@ -207,6 +207,9 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **ML.NET Samples (Real-world use cases)**: `https://github.com/dotnet/machinelearning-samples`
 - **TorchSharp Docs (C# PyTorch)**: `https://github.com/dotnet/TorchSharp/blob/main/docs/README.md`
 - **Kubernetes for .NET Devs**: `https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/`
+- **C# ECMA-334 Specification (The actual C# language standard)**: `https://www.ecma-international.org/publications-and-standards/standards/ecma-334/`
+- **IL Opcodes (The secret bytecode behind .NET)**: `https://learn.microsoft.com/en-us/dotnet/api/system.reflection.emit.opcodes`
+- **Roslyn Compiler API (Hack the C# compiler itself)**: `https://github.com/dotnet/roslyn/wiki`
 
 ### Database
 - **PostgreSQL**: `https://www.postgresql.org/docs/`
@@ -339,6 +342,8 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **Mojo (Python++ for AI)**: `https://docs.modular.com/mojo/`
 - **TensorRT (NVIDIA Inference)**: `https://docs.nvidia.com/deeplearning/tensorrt/`
 - **ONNX Runtime**: `https://onnxruntime.ai/docs/`
+- **TorchSharp (C# PyTorch) Docs (Deep learning in .NET? Yes.)**: `https://github.com/dotnet/TorchSharp/blob/main/docs/README.md`
+- **ML.NET Samples (Microsoft's ML framework for .NET)**: `https://github.com/dotnet/machinelearning-samples`
 
 ### Scientific Computing & Research
 - **Julia (Language)**: `https://docs.julialang.org/`
@@ -449,6 +454,8 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **Linux Kernel Docs (Including driver development)**: `https://www.kernel.org/doc/html/latest/`
 - **Intel x86 Manuals (Vol. 3: System Programming)**: `https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html`
 - **Microsoft's Win32 API (Raw Windows power)**: `https://learn.microsoft.com/en-us/windows/win32/api/`
+- **Intel x86 Manuals (Vol. 3: System Programming) (CPU black magic)**: `https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html`
+- **Linux Kernel Docs (Including Driver Development) (Become a kernel wizard)**: `https://www.kernel.org/doc/html/latest/`
 
 ### Geospatial & GIS
 - **GDAL (Geospatial Data)**: `https://gdal.org/documentation/`
@@ -488,6 +495,10 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **Commodore 64**: `https://www.c64-wiki.com/`
 - **Microsoft Win32 SDK (1998) (Vintage API docs)**: `https://archive.org/details/microsoft-win32-programmers-reference-1998`
 - **IBM OS/360 Manuals (Where "computer science" was born)**: `https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html`
+- **TempleOS Documentation (God's operating system, literally)**: `https://templeos.org/`
+- **BareMetal OS (x86-64 Assembly OS)**: `http://www.returninfinity.com/baremetal.html`
+- **IBM OS/360 Manuals (Where "computer science" was born)**: `https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html`
+- **Microsoft Win32 SDK (1998) (Vintage Windows API)**: `https://archive.org/details/microsoft-win32-programmers-reference-1998`
 
 ### Documentation Tools
 - **MkDocs**: `https://www.mkdocs.org/`
@@ -519,6 +530,10 @@ This guide lists various documentation sources that can be configured in Cursor'
 ### Tooling & DevOps
 - **dotTrace (Profiling C# apps)**: `https://www.jetbrains.com/help/profiler/Getting_Started.html`
 - **PerfView (Microsoft's secret weapon)**: `https://github.com/microsoft/perfview`
+
+### Historical & Grimoire-Tier
+- **How To Write Unmaintainable Code (Satirical but terrifyingly real)**: `https://github.com/Droogans/unmaintainable-code`
+- **The Jargon File (Hacker culture's dictionary)**: `http://www.catb.org/jargon/html/`
 
 ### Other Notable Docs
 - **Bash**: `https://www.gnu.org/software/bash/manual/`
@@ -567,3 +582,7 @@ This guide lists various documentation sources that can be configured in Cursor'
 ## Contributing
 
 Feel free to contribute to this list by submitting pull requests with additional documentation sources or improvements to existing entries.
+
+## License
+
+This documentation is open source and available under the MIT License.
