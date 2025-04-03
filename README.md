@@ -169,6 +169,8 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **Rust Embedded WG**: `https://github.com/rust-embedded/wg`
 - **Rust SIMD (Performance)**: `https://rust-lang.github.io/packed_simd/`
 - **Redox (Rust OS)**: `https://doc.redox-os.org/`
+- **The Rustonomicon (Dark Arts of Unsafe Rust)**: `https://doc.rust-lang.org/nomicon/`
+- **Rust for Embedded (Bare-metal programming)**: `https://docs.rust-embedded.org/book/`
 
 ### Ruby
 - **Ruby Standard Library**: `https://ruby-doc.org/stdlib/`
@@ -193,6 +195,18 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **Entity Framework Core**: `https://docs.microsoft.com/ef/core/`
 - **Blazor**: `https://docs.microsoft.com/aspnet/core/blazor`
 - **F#**: `https://learn.microsoft.com/dotnet/fsharp/`
+- **C# Language Reference**: `https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/`
+- **.NET API Browser (Every namespace, class, method)**: `https://learn.microsoft.com/en-us/dotnet/api/`
+- **.NET Performance Guidelines (Hidden Gem)**: `https://learn.microsoft.com/en-us/dotnet/fundamentals/performance/`
+- **C# Specification (ECMA-334) (The C# Bible)**: `https://www.ecma-international.org/publications-and-standards/standards/ecma-334/`
+- **IL Opcodes (For compiler nerds)**: `https://learn.microsoft.com/en-us/dotnet/api/system.reflection.emit.opcodes`
+- **Async/Await Internals**: `https://devblogs.microsoft.com/premier-developer/dissecting-the-async-methods-in-c/`
+- **BenchmarkDotNet (Performance testing)**: `https://benchmarkdotnet.org/articles/overview.html`
+- **Roslyn (Compiler API) (Write your own C# analyzer)**: `https://github.com/dotnet/roslyn/wiki`
+- **MemoryPack (Fastest C# serialization)**: `https://github.com/Cysharp/MemoryPack`
+- **ML.NET Samples (Real-world use cases)**: `https://github.com/dotnet/machinelearning-samples`
+- **TorchSharp Docs (C# PyTorch)**: `https://github.com/dotnet/TorchSharp/blob/main/docs/README.md`
+- **Kubernetes for .NET Devs**: `https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/`
 
 ### Database
 - **PostgreSQL**: `https://www.postgresql.org/docs/`
@@ -302,6 +316,9 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **TIC-80 (Another Fantasy Console)**: `https://github.com/nesbox/TIC-80/wiki`
 - **Demoscene Tools**: `https://www.pouet.net/prodlist.php?platform[]=JavaScript`
 - **Amiga Programming**: `http://amigadev.elowar.com/`
+- **Unity DOTS Manual (Data-Oriented Tech Stack)**: `https://docs.unity3d.com/Packages/com.unity.entities@1.0/manual/index.html`
+- **Unity Burst Compiler (C# → Native Speed)**: `https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html`
+- **Unreal C++ Profiling (Because sometimes C# isn't enough)**: `https://docs.unrealengine.com/5.3/en-US/profiling-unreal-engine-applications/`
 
 ### Data Science & AI
 - **Jupyter**: `https://docs.jupyter.org/`
@@ -429,6 +446,9 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **ReactOS (Windows-compatible FOSS)**: `https://reactos.org/wiki/Documentation`
 - **TempleOS (Terry Davis's OS)**: `https://templeos.org/`
 - **BareMetal OS (x86-64 Assembly)**: `http://www.returninfinity.com/baremetal.html`
+- **Linux Kernel Docs (Including driver development)**: `https://www.kernel.org/doc/html/latest/`
+- **Intel x86 Manuals (Vol. 3: System Programming)**: `https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html`
+- **Microsoft's Win32 API (Raw Windows power)**: `https://learn.microsoft.com/en-us/windows/win32/api/`
 
 ### Geospatial & GIS
 - **GDAL (Geospatial Data)**: `https://gdal.org/documentation/`
@@ -466,6 +486,8 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **6502 Assembly**: `https://www.6502.org/tutorials/`
 - **Z80 Assembly**: `http://www.z80.info/`
 - **Commodore 64**: `https://www.c64-wiki.com/`
+- **Microsoft Win32 SDK (1998) (Vintage API docs)**: `https://archive.org/details/microsoft-win32-programmers-reference-1998`
+- **IBM OS/360 Manuals (Where "computer science" was born)**: `https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html`
 
 ### Documentation Tools
 - **MkDocs**: `https://www.mkdocs.org/`
@@ -487,6 +509,16 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **PowerBuilder (90s RAD)**: `https://docs.appeon.com/powerbuilder/`
 - **Progress 4GL**: `https://docs.progress.com/`
 - **SAP R/3 (1992 ERP)**: `https://help.sap.com/docs/SAP_R3`
+
+### Web Development
+- **TypeScript Deep Dive (TypeScript wizardry)**: `https://basarat.gitbook.io/typescript/`
+- **WebGPU (Next-gen WebGL)**: `https://webgpufundamentals.org/`
+- **SQL Server Internals (Deep database voodoo)**: `https://www.sqlskills.com/sql-server-resources/`
+- **High-Performance APIs (Book, but worth it)**: `https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321`
+
+### Tooling & DevOps
+- **dotTrace (Profiling C# apps)**: `https://www.jetbrains.com/help/profiler/Getting_Started.html`
+- **PerfView (Microsoft's secret weapon)**: `https://github.com/microsoft/perfview`
 
 ### Other Notable Docs
 - **Bash**: `https://www.gnu.org/software/bash/manual/`
@@ -535,7 +567,3 @@ This guide lists various documentation sources that can be configured in Cursor'
 ## Contributing
 
 Feel free to contribute to this list by submitting pull requests with additional documentation sources or improvements to existing entries.
-
-## License
-
-This documentation is open source and available under the MIT License. 
