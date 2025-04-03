@@ -112,6 +112,21 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **Gradle**: `https://docs.gradle.org/`
 - **Mockito**: `https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html`
 - **Jackson**: `https://github.com/FasterXML/jackson-docs`
+- **Micronaut**: `https://docs.micronaut.io/latest/guide/`
+- **Quarkus**: `https://quarkus.io/guides/`
+- **Netty**: `https://netty.io/wiki/user-guide-for-4.x.html`
+- **Vert.x**: `https://vertx.io/docs/`
+- **Akka**: `https://doc.akka.io/docs/akka/current/`
+- **JavaFX**: `https://openjfx.io/javadoc/17/`
+- **Guava**: `https://github.com/google/guava/wiki`
+- **JMH (Benchmarking)**: `https://github.com/openjdk/jmh/tree/master/jmh-samples/src/main/java/org/openjdk/jmh/samples`
+- **RxJava**: `https://github.com/ReactiveX/RxJava/wiki`
+- **Project Reactor**: `https://projectreactor.io/docs`
+- **JPA**: `https://jakarta.ee/specifications/persistence/3.0/jakarta-persistence-spec-3.0.html`
+- **Vaadin**: `https://vaadin.com/docs`
+- **Thymeleaf**: `https://www.thymeleaf.org/documentation.html`
+- **AssertJ**: `https://assertj.github.io/doc/`
+- **JPA Buddy**: `https://www.jpa-buddy.com/documentation/`
 
 ### C/C++
 - **C++ Standard Library**: `https://en.cppreference.com/`
@@ -551,6 +566,279 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **How To Write Unmaintainable Code (Satirical but terrifyingly real)**: `https://github.com/Droogans/unmaintainable-code`
 - **The Jargon File (Hacker culture's dictionary)**: `http://www.catb.org/jargon/html/`
 - **The Second-System Effect (OS/360 Post-Mortem)**: `https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959`
+
+### Computer Graphics
+- **OpenGL**: `https://www.khronos.org/opengl/wiki/`
+- **DirectX**: `https://docs.microsoft.com/en-us/windows/win32/directx`
+- **Vulkan**: `https://www.khronos.org/vulkan/`
+- **Metal (Apple)**: `https://developer.apple.com/documentation/metal`
+- **WebGPU**: `https://gpuweb.github.io/gpuweb/`
+- **GLSL**: `https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language`
+- **HLSL**: `https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl`
+- **Shadertoy**: `https://www.shadertoy.com/howto`
+- **Physically Based Rendering**: `https://www.pbr-book.org/`
+- **LearnOpenGL**: `https://learnopengl.com/`
+- **ShaderTutorials**: `https://thebookofshaders.com/`
+- **Ray Tracing in One Weekend**: `https://raytracing.github.io/`
+- **GPU Gems**: `https://developer.nvidia.com/gpugems/gpugems/contributors`
+- **Computer Graphics: Principles and Practice**: `https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528`
+- **Filament (PBR Engine)**: `https://google.github.io/filament/Filament.html`
+- **SIGGRAPH Papers**: `https://www.siggraph.org/learn/conference-content/`
+- **Normal Mapping**: `http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-13-normal-mapping/`
+- **Graphics Programming Black Book**: `https://github.com/jagregory/abrash-black-book`
+
+### Compilers & Programming Language Design
+- **LLVM**: `https://llvm.org/docs/`
+- **GCC Internals**: `https://gcc.gnu.org/onlinedocs/gccint/`
+- **Crafting Interpreters**: `https://craftinginterpreters.com/`
+- **The Dragon Book**: `https://suif.stanford.edu/dragonbook/`
+- **Writing a C Compiler**: `https://norasandler.com/2017/11/29/Write-a-Compiler.html`
+- **ANTLR**: `https://github.com/antlr/antlr4/blob/master/doc/index.md`
+- **Flex & Bison**: `https://web.iitd.ac.in/~sumeet/flex__bison.pdf`
+- **Let's Build a Compiler**: `https://compilers.iecc.com/crenshaw/`
+- **WebAssembly Specifications**: `https://webassembly.github.io/spec/core/`
+- **Parsers & Parser Combinators**: `https://github.com/rust-bakery/nom`
+- **Language Server Protocol**: `https://microsoft.github.io/language-server-protocol/`
+- **JIT Compilation**: `https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction`
+- **GraalVM**: `https://www.graalvm.org/latest/docs/`
+- **Optimization Techniques**: `https://www.agner.org/optimize/`
+- **Garbage Collection Algorithms**: `https://gchandbook.org/`
+- **Aho-Corasick Algorithm**: `https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm`
+- **Parser Generation**: `http://dinosaur.compilertools.net/`
+- **Static Analysis Tools**: `https://github.com/analysis-tools-dev/static-analysis`
+- **Type Theory**: `https://www.cis.upenn.edu/~bcpierce/tapl/`
+- **LLDB Debugger Architecture**: `https://lldb.llvm.org/resources/architecture.html`
+
+### Network & Distributed Systems
+- **TCP/IP Guide**: `http://www.tcpipguide.com/`
+- **BGP (Border Gateway Protocol)**: `https://www.bgp.guru/`
+- **QUIC Protocol**: `https://datatracker.ietf.org/doc/html/rfc9000`
+- **WebRTC**: `https://webrtc.github.io/webrtc-org/`
+- **Erlang Distribution Protocol**: `https://erlang.org/doc/apps/erts/erl_dist_protocol.html`
+- **Cap'n Proto**: `https://capnproto.org/`
+- **Apache Thrift**: `https://thrift.apache.org/docs/`
+- **IPFS**: `https://docs.ipfs.tech/`
+- **Syncthing**: `https://docs.syncthing.net/`
+- **Raft Consensus Algorithm**: `https://raft.github.io/`
+- **Paxos Made Simple**: `https://lamport.azurewebsites.net/pubs/paxos-simple.pdf`
+- **Distributed Systems for Fun and Profit**: `http://book.mixu.net/distsys/`
+- **Time, Clocks, and the Ordering of Events**: `https://lamport.azurewebsites.net/pubs/time-clocks.pdf`
+- **ZeroMQ Guide**: `https://zguide.zeromq.org/`
+- **Gossip Protocols**: `https://en.wikipedia.org/wiki/Gossip_protocol`
+- **Consistent Hashing**: `https://tom-e-white.com/2007/11/consistent-hashing.html`
+- **Ceph Architecture**: `https://docs.ceph.com/en/latest/architecture/`
+- **Kafka Protocol**: `https://kafka.apache.org/protocol.html`
+- **Consistent and Convergent Replicated Data Types**: `https://hal.inria.fr/inria-00609399/document`
+- **DNS Protocol**: `https://www.cloudflare.com/learning/dns/dns-records/`
+- **OSPF Protocol**: `https://www.cisco.com/c/en/us/support/docs/ip/open-shortest-path-first-ospf/7039-1.html`
+- **DNSSEC**: `https://www.cloudflare.com/dns/dnssec/how-dnssec-works/`
+
+### High-Performance Computing
+- **OpenMP**: `https://www.openmp.org/resources/tutorials-articles/`
+- **MPI**: `https://www.mpi-forum.org/docs/`
+- **CUDA**: `https://docs.nvidia.com/cuda/`
+- **OpenCL**: `https://www.khronos.org/opencl/`
+- **Intel AVX**: `https://software.intel.com/content/www/us/en/develop/documentation/cpp-compiler-developer-guide-and-reference/top/compiler-reference/intrinsics/intrinsics-for-avx2.html`
+- **ARM NEON**: `https://developer.arm.com/architectures/instruction-sets/simd-isas/neon`
+- **Slurm**: `https://slurm.schedmd.com/documentation.html`
+- **Dask**: `https://docs.dask.org/`
+- **Ray**: `https://docs.ray.io/`
+- **BLAS**: `http://www.netlib.org/blas/`
+- **LAPACK**: `http://www.netlib.org/lapack/`
+- **HPC Carpentry**: `https://hpc-carpentry.github.io/`
+- **OpenACC**: `https://www.openacc.org/resources`
+- **Intel Intrinsics Guide**: `https://software.intel.com/sites/landingpage/IntrinsicsGuide/`
+- **Tensor Computation Libraries**: `https://github.com/pytorch/pytorch/tree/master/aten`
+- **Performance Optimization**: `https://agner.org/optimize/`
+- **HPX (C++ Standard for Parallelism)**: `https://hpx.stellar-group.org/documentation/`
+- **XLA (Accelerated Linear Algebra)**: `https://www.tensorflow.org/xla`
+- **AMD ROCm**: `https://rocmdocs.amd.com/en/latest/`
+- **MAGMA (Matrix Algebra on GPU)**: `https://icl.utk.edu/magma/`
+- **Thrust (C++ GPU Templates)**: `https://thrust.github.io/`
+
+### Advanced Algorithms & Data Structures
+- **Introduction to Algorithms (CLRS)**: `https://mitpress.mit.edu/books/introduction-algorithms-third-edition`
+- **Competitive Programming Handbook**: `https://cses.fi/book/book.pdf`
+- **LeetCode Patterns**: `https://seanprashad.com/leetcode-patterns/`
+- **Open Data Structures**: `https://opendatastructures.org/`
+- **Advanced Data Structures (MIT)**: `https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/`
+- **Skip Lists**: `https://15721.courses.cs.cmu.edu/spring2018/papers/08-oltpindexes1/pugh-skiplists-cacm1990.pdf`
+- **Advanced String Algorithms**: `https://monge.univ-mlv.fr/~lecroq/string/`
+- **Streaming Algorithms**: `https://www.cs.dartmouth.edu/~ac/Teach/data-streams-lecnotes.pdf`
+- **Approximation Algorithms**: `https://www.designofapproxalgs.com/`
+- **Randomized Algorithms**: `https://www.cc.gatech.edu/~vigoda/RandAlgs/`
+- **Red-Black Trees**: `https://www.cs.auckland.ac.nz/software/AlgAnim/red_black.html`
+- **B-Trees**: `https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/rec25.html`
+- **Suffix Trees**: `https://www.cs.helsinki.fi/u/ukkonen/SuffixT1withFigs.pdf`
+- **Bloom Filters**: `https://en.wikipedia.org/wiki/Bloom_filter`
+- **MerkleDAG (Used in Git, IPFS)**: `https://docs.ipfs.tech/concepts/merkle-dag/`
+- **Quadtrees and Octrees**: `https://en.wikipedia.org/wiki/Quadtree`
+- **HyperLogLog (Cardinality Estimation)**: `https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/`
+- **Count-Min Sketch**: `https://sites.google.com/site/countminsketch/`
+- **Lock-Free Data Structures**: `https://www.cs.tau.ac.il/~shanir/concurrent-data-structures.pdf`
+- **Segment Trees**: `https://cp-algorithms.com/data_structures/segment_tree.html`
+- **Fenwick Trees (Binary Indexed Trees)**: `https://en.wikipedia.org/wiki/Fenwick_tree`
+
+### Low-Level Computer Science
+- **Computer Architecture**: `https://csapp.cs.cmu.edu/`
+- **x86 Assembly**: `https://www.cs.virginia.edu/~evans/cs216/guides/x86.html`
+- **ARM Assembly**: `https://developer.arm.com/documentation/ddi0487/latest`
+- **RISC-V**: `https://riscv.org/technical/specifications/`
+- **MIPS Assembly**: `https://www.cs.cornell.edu/courses/cs3410/2019sp/mips_reference.html`
+- **CPU Cache Optimization**: `https://lwn.net/Articles/255364/`
+- **Memory Barriers**: `https://preshing.com/20120710/memory-barriers-are-like-source-control-operations/`
+- **Memory Allocators**: `http://gee.cs.oswego.edu/dl/html/malloc.html`
+- **Concurrency Patterns**: `https://web.mit.edu/6.031/www/sp21/classes/23-locks/`
+- **Linkers & Loaders**: `https://www.iecc.com/linker/`
+- **ELF Format**: `https://refspecs.linuxfoundation.org/elf/elf.pdf`
+- **PE Format (Windows)**: `https://docs.microsoft.com/en-us/windows/win32/debug/pe-format`
+- **Mach-O Format (macOS)**: `https://developer.apple.com/library/archive/documentation/Performance/Conceptual/CodeFootprint/Articles/MachO.html`
+- **CPU Microarchitecture**: `https://www.agner.org/optimize/microarchitecture.pdf`
+- **Spectre & Meltdown**: `https://spectreattack.com/`
+- **Computer Organization and Design**: `https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6`
+- **The Art of Assembly Language**: `http://www.plantation-productions.com/Webster/`
+- **Software Optimization Resources**: `https://www.agner.org/optimize/`
+- **Stack Overflow (The Good Kind)**: `https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64/`
+- **NUMA Architecture**: `https://queue.acm.org/detail.cfm?id=2513149`
+
+### Mathematics for Computing
+- **Discrete Mathematics**: `https://discrete.openmathbooks.org/dmoi3.html`
+- **Linear Algebra**: `https://math.mit.edu/~gs/linearalgebra/`
+- **Probability Theory**: `https://www.probabilitycourse.com/`
+- **Statistics**: `https://www.statlect.com/`
+- **Graph Theory**: `https://www.cs.cmu.edu/~15859n/RelatedWork/GraphTheoryBasics.pdf`
+- **Number Theory**: `https://crypto.stanford.edu/pbc/notes/numbertheory/`
+- **Combinatorics**: `https://www.math.upenn.edu/~wilf/Downld.html`
+- **Information Theory**: `http://www.inference.org.uk/mackay/itila/book.html`
+- **Cryptography**: `https://www.crypto-textbook.com/`
+- **Computational Geometry**: `https://www.cs.umd.edu/~mount/754/Lects/754lects.pdf`
+- **Game Theory**: `https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15859-f01/www/notes/`
+- **Abstract Algebra**: `https://abstract.ups.edu/`
+- **Category Theory**: `https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/`
+- **Numerical Methods**: `https://tobydriscoll.net/fnc-julia/`
+- **Differential Equations**: `https://tutorial.math.lamar.edu/classes/de/de.aspx`
+- **Optimization Theory**: `https://web.stanford.edu/~boyd/cvxbook/`
+- **Real Analysis**: `https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf`
+- **Algebraic Topology**: `https://www.math.cornell.edu/~hatcher/AT/ATpage.html`
+- **Topology**: `https://www.math.toronto.edu/ivan/mat327/?resources`
+- **Fourier Analysis**: `https://seeing-theory.brown.edu/fourier-transforms/index.html`
+- **Group Theory**: `https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf`
+
+### Human-Computer Interaction & UX
+- **UX Design Principles**: `https://principles.design/`
+- **Nielsen Norman Group**: `https://www.nngroup.com/articles/`
+- **Material Design**: `https://material.io/design`
+- **iOS Human Interface Guidelines**: `https://developer.apple.com/design/human-interface-guidelines/`
+- **Inclusive Design Toolkit**: `https://www.microsoft.com/design/inclusive/`
+- **A11Y (Web Accessibility)**: `https://www.a11yproject.com/`
+- **Color Theory**: `https://www.interaction-design.org/literature/topics/color-theory`
+- **Typography for Developers**: `https://www.renderingonline.com/typography-for-developers/`
+- **Gestalt Principles**: `https://www.interaction-design.org/literature/topics/gestalt-principles`
+- **UX Research Methods**: `https://www.nngroup.com/articles/which-ux-research-methods/`
+- **Information Architecture**: `https://www.usability.gov/what-and-why/information-architecture.html`
+- **Design Systems**: `https://www.designsystems.com/`
+- **Human-Centered Design**: `https://www.designkit.org/methods`
+- **UX Writing Guidelines**: `https://material.io/design/communication/writing.html`
+- **Design Thinking**: `https://designthinking.ideo.com/`
+- **A/B Testing**: `https://www.optimizely.com/optimization-glossary/ab-testing/`
+- **Interaction Design Patterns**: `https://ui-patterns.com/`
+- **Dark Patterns (Anti-Patterns)**: `https://www.darkpatterns.org/`
+- **Voice & Conversational UI**: `https://www.amazon.com/Voice-User-Interface-Design-Conversational/dp/9332585857`
+- **Neuro Design**: `https://www.amazon.com/Neuro-Design-Neuromarketing-Improve-Experience/dp/0749478870`
+- **Heuristic Evaluation**: `https://www.nngroup.com/articles/ten-usability-heuristics/`
+- **Fitts's Law**: `https://www.interaction-design.org/literature/topics/fitts-law`
+
+### Machine Learning & Data Science
+- **The Deep Learning Book**: `https://www.deeplearningbook.org/`
+- **Machine Learning Yearning**: `https://www.deeplearning.ai/machine-learning-yearning/`
+- **Fast.ai**: `https://www.fast.ai/`
+- **Stanford CS229**: `https://cs229.stanford.edu/syllabus.html`
+- **StatQuest**: `https://statquest.org/video-index/`
+- **Neural Network Architectures**: `https://www.asimovinstitute.org/neural-network-zoo/`
+- **Reinforcement Learning**: `https://spinningup.openai.com/`
+- **NLP**: `https://web.stanford.edu/~jurafsky/slp3/`
+- **Computer Vision**: `https://www.cs.ubc.ca/~lowe/vision.html`
+- **Bayesian Methods**: `https://www.probabilistic-numerics.org/`
+- **Time Series Analysis**: `https://otexts.com/fpp3/`
+- **Feature Engineering**: `https://jakevdp.github.io/PythonDataScienceHandbook/05.04-feature-engineering.html`
+- **MLOps**: `https://ml-ops.org/`
+- **Interpretable ML**: `https://christophm.github.io/interpretable-ml-book/`
+- **GraphML**: `https://cs.stanford.edu/~jure/pub/talks2019/cs224w-2019-lecture15-GNNs.pdf`
+- **Causal Inference**: `https://web.stanford.edu/~swager/hernan_robins_causal_inference.pdf`
+- **Gaussian Processes**: `http://www.gaussianprocess.org/gpml/`
+- **ML Fairness**: `https://developers.google.com/machine-learning/fairness-overview/`
+- **Advanced Deep Learning**: `https://d2l.ai/`
+- **Genetic Algorithms & Evolutionary Computing**: `https://www.cs.cmu.edu/Groups/AI/html/faqs/ai/genetic/top.html`
+- **Transformer Networks**: `https://jalammar.github.io/illustrated-transformer/`
+- **ML Engineering at Scale**: `https://www.tensorflow.org/tfx/guide`
+
+### Natural Language Processing & Understanding
+- **NLP with Python**: `https://www.nltk.org/book/`
+- **SpaCy Documentation**: `https://spacy.io/usage`
+- **Hugging Face Transformers**: `https://huggingface.co/transformers/`
+- **StanfordNLP**: `https://stanfordnlp.github.io/stanfordnlp/`
+- **BERT (Paper)**: `https://arxiv.org/abs/1810.04805`
+- **GPT (Paper)**: `https://arxiv.org/abs/2005.14165`
+- **Sequence-to-Sequence Learning**: `https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf`
+- **Word2Vec (Paper)**: `https://arxiv.org/abs/1301.3781`
+- **Word Embeddings**: `https://ruder.io/word-embeddings-1/`
+- **Attention Mechanism**: `https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html`
+- **Topic Modeling**: `https://radimrehurek.com/gensim/models/ldamodel.html`
+- **Sentiment Analysis**: `https://www.clips.uantwerpen.be/pages/pattern-en#sentiment`
+- **Named Entity Recognition**: `https://aclanthology.org/P16-1101.pdf`
+- **Dependency Parsing**: `https://aclanthology.org/W09-3825.pdf`
+- **Machine Translation**: `https://www.aclweb.org/anthology/P/P02/P02-1040.pdf`
+- **Text Classification**: `https://monkeylearn.com/text-classification/`
+- **Question Answering**: `https://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture15-qa.pdf`
+- **Text Summarization**: `https://arxiv.org/abs/1706.03762`
+- **Linguistic Fundamentals**: `https://www.cs.colorado.edu/~martin/slp.html`
+- **ROUGE Metric**: `https://aclanthology.org/W04-1013/`
+- **Coreference Resolution**: `https://aclanthology.org/D11-1080.pdf`
+- **Language Model Evaluation**: `https://aclanthology.org/2020.acl-main.442/`
+
+### Systems Architecture & Design Patterns
+- **Enterprise Integration Patterns**: `https://www.enterpriseintegrationpatterns.com/`
+- **Clean Architecture**: `https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html`
+- **CQRS Pattern**: `https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs`
+- **Event Sourcing**: `https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing`
+- **Domain-Driven Design**: `https://domainlanguage.com/ddd/reference/`
+- **Microservices Patterns**: `https://microservices.io/patterns/`
+- **12-Factor App**: `https://12factor.net/`
+- **Building Microservices**: `https://samnewman.io/books/building_microservices/`
+- **Reactive Manifesto**: `https://www.reactivemanifesto.org/`
+- **AWS Well-Architected**: `https://aws.amazon.com/architecture/well-architected/`
+- **Cloud Design Patterns**: `https://docs.microsoft.com/en-us/azure/architecture/patterns/`
+- **Chaos Engineering**: `https://principlesofchaos.org/`
+- **Site Reliability Engineering**: `https://sre.google/sre-book/table-of-contents/`
+- **Anti-Patterns Catalog**: `https://sourcemaking.com/antipatterns`
+- **Resilience Patterns**: `https://docs.microsoft.com/en-us/azure/architecture/patterns/category/resiliency`
+- **Saga Pattern**: `https://microservices.io/patterns/data/saga.html`
+- **Circuit Breaker Pattern**: `https://martinfowler.com/bliki/CircuitBreaker.html`
+- **Bulkhead Pattern**: `https://docs.microsoft.com/en-us/azure/architecture/patterns/bulkhead`
+- **Strangler Fig Pattern**: `https://martinfowler.com/bliki/StranglerFigApplication.html`
+- **API Gateway Pattern**: `https://microservices.io/patterns/apigateway.html`
+
+### Game Development (Advanced)
+- **Game Programming Patterns**: `https://gameprogrammingpatterns.com/`
+- **Game AI Pro**: `http://www.gameaipro.com/`
+- **Red Blob Games**: `https://www.redblobgames.com/`
+- **Amit's Game Programming**: `https://www-cs-students.stanford.edu/~amitp/gameprog.html`
+- **Entity Component Systems**: `https://github.com/SanderMertens/ecs-faq`
+- **GPU Gems**: `https://developer.nvidia.com/gpugems/gpugems/contributors`
+- **3D Math Primer**: `https://gamemath.com/`
+- **Physics for Game Developers**: `https://www.oreilly.com/library/view/physics-for-game/9781449361037/`
+- **Game Engine Architecture**: `https://www.gameenginebook.com/`
+- **AI Game Programming Wisdom**: `https://www.amazon.com/Game-Programming-Wisdom-Steve-Rabin/dp/1584500778`
+- **Procedural Content Generation**: `http://pcgbook.com/`
+- **GPU Pathfinding**: `https://developer.nvidia.com/gpugems/gpugems3/part-i-geometry/chapter-4-next-generation-gpu-path-rendering`
+- **Behavior Trees**: `https://www.gamasutra.com/blogs/ChrisSimpson/20140717/221339/Behavior_trees_for_AI_How_they_work.php`
+- **Character Animation**: `https://www.gamedev.net/tutorials/_/technical/game-programming/character-animation-an-introduction-r711/`
+- **Networking for Games**: `https://gafferongames.com/`
+- **Game Audio**: `https://www.gamasutra.com/view/feature/132252/a_programmers_guide_to_creating_.php`
+- **Physics Engine Development**: `https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics`
+- **Multiplayer Synchronization**: `https://www.gabrielgambetta.com/client-server-game-architecture.html`
+- **Shader Development**: `https://thebookofshaders.com/`
+- **Game Loop**: `https://gameprogrammingpatterns.com/game-loop.html`
 
 ### Other Notable Docs
 - **Bash**: `https://www.gnu.org/software/bash/manual/`
