@@ -171,6 +171,7 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **Redox (Rust OS)**: `https://doc.redox-os.org/`
 - **The Rustonomicon (Dark Arts of Unsafe Rust)**: `https://doc.rust-lang.org/nomicon/`
 - **Rust for Embedded (Bare-metal programming)**: `https://docs.rust-embedded.org/book/`
+- **The Rustonomicon (Unsafe Rust Black Magic)**: `https://doc.rust-lang.org/nomicon/`
 
 ### Ruby
 - **Ruby Standard Library**: `https://ruby-doc.org/stdlib/`
@@ -456,6 +457,16 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **Microsoft's Win32 API (Raw Windows power)**: `https://learn.microsoft.com/en-us/windows/win32/api/`
 - **Intel x86 Manuals (Vol. 3: System Programming) (CPU black magic)**: `https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html`
 - **Linux Kernel Docs (Including Driver Development) (Become a kernel wizard)**: `https://www.kernel.org/doc/html/latest/`
+- **TempleOS (HolyC & Divine Madness)**: `https://templeos.org/`
+- **HolyC Language Spec**: `https://holyc-lang.com/`
+- **BareMetal OS (x86-64 Assembly)**: `http://www.returninfinity.com/baremetal.html`
+- **Redox OS (Rust Microkernel)**: `https://doc.redox-os.org/`
+- **KolibriOS (FASM Assembly, 1.44MB Floppy-Sized)**: `https://wiki.kolibrios.org/`
+- **Suicide Linux (Terminal Roulette)**: `https://sgfault.com/post/2018/05/2018-05-31-esoteric-os/`
+- **Northwestern's Nautilus Kernel (NK)**: `https://mccormick.northwestern.edu/computer-science/academics/courses/343.html`
+- **Red Star OS (North Korea's macOS Clone)**: `https://pcgamer.com/pariah-state-oses/`
+- **Nova OS (Cuba's Ubuntu Fork)**: `https://nova.cu/`
+- **ALT Linux (Russia's "Windows Killer")**: `https://pcgamer.com/pariah-state-oses/`
 
 ### Geospatial & GIS
 - **GDAL (Geospatial Data)**: `https://gdal.org/documentation/`
@@ -479,6 +490,9 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **Zig (System Programming)**: `https://ziglang.org/documentation/master/`
 - **Odin**: `https://odin-lang.org/docs/`
 - **Gleam (BEAM/Type Safety)**: `https://gleam.run/documentation/`
+- **HolyC (TempleOS's Sacred Syntax)**: `https://holyc-lang.com/docs`
+- **Brainfuck Runtime for Esoteric OS**: `https://esolangs.org/wiki/Talk:Esoteric_Operating_System`
+- **Checkout (Esolang for OS Development)**: `https://esolangs.org/wiki/Talk:Esoteric_Operating_System`
 
 ### Hardware Design & EDA
 - **KiCad (PCB)**: `https://docs.kicad.org/`
@@ -499,6 +513,8 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **BareMetal OS (x86-64 Assembly OS)**: `http://www.returninfinity.com/baremetal.html`
 - **IBM OS/360 Manuals (Where "computer science" was born)**: `https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html`
 - **Microsoft Win32 SDK (1998) (Vintage Windows API)**: `https://archive.org/details/microsoft-win32-programmers-reference-1998`
+- **IBM OS/360 Manuals (1960s Mainframe Sorcery)**: `https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html`
+- **CP/CMS (Time-Sharing Ancestor of VMware)**: `https://rakanalysis.wordpress.com/`
 
 ### Documentation Tools
 - **MkDocs**: `https://www.mkdocs.org/`
@@ -534,6 +550,7 @@ This guide lists various documentation sources that can be configured in Cursor'
 ### Historical & Grimoire-Tier
 - **How To Write Unmaintainable Code (Satirical but terrifyingly real)**: `https://github.com/Droogans/unmaintainable-code`
 - **The Jargon File (Hacker culture's dictionary)**: `http://www.catb.org/jargon/html/`
+- **The Second-System Effect (OS/360 Post-Mortem)**: `https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959`
 
 ### Other Notable Docs
 - **Bash**: `https://www.gnu.org/software/bash/manual/`
