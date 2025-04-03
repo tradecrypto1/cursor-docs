@@ -360,6 +360,28 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **ONNX Runtime**: `https://onnxruntime.ai/docs/`
 - **TorchSharp (C# PyTorch) Docs (Deep learning in .NET? Yes.)**: `https://github.com/dotnet/TorchSharp/blob/main/docs/README.md`
 - **ML.NET Samples (Microsoft's ML framework for .NET)**: `https://github.com/dotnet/machinelearning-samples`
+- **Hugging Face Hub Overview**: `https://huggingface.co/docs/huggingface_hub/guides/overview`
+- **Hugging Face Hub Download**: `https://huggingface.co/docs/huggingface_hub/guides/download`
+- **Hugging Face Hub Upload**: `https://huggingface.co/docs/huggingface_hub/guides/upload`
+- **Hugging Face Hub Repository**: `https://huggingface.co/docs/huggingface_hub/guides/repository`
+- **Hugging Face Hub Inference**: `https://huggingface.co/docs/huggingface_hub/guides/inference`
+- **Hugging Face Hub Search**: `https://huggingface.co/docs/huggingface_hub/guides/search`
+- **Hugging Face Hub Spaces**: `https://huggingface.co/docs/huggingface_hub/guides/spaces`
+- **Hugging Face Hub Advanced**: `https://huggingface.co/docs/huggingface_hub/guides/advanced`
+- **Hugging Face Hub Cache**: `https://huggingface.co/docs/huggingface_hub/guides/cache`
+- **Hugging Face Hub Git**: `https://huggingface.co/docs/huggingface_hub/guides/git`
+- **Hugging Face Hub Quickstart**: `https://huggingface.co/docs/huggingface_hub/main/en/quick-start`
+- **Hugging Face Hub Model Management**: `https://huggingface.co/docs/huggingface_hub/main/en/models`
+- **Hugging Face Hub Dataset Management**: `https://huggingface.co/docs/huggingface_hub/main/en/datasets`
+- **Hugging Face Hub Spaces Deployment**: `https://huggingface.co/docs/huggingface_hub/main/en/spaces`
+- **Hugging Face Hub Inference API**: `https://huggingface.co/docs/huggingface_hub/main/en/inference`
+- **Hugging Face Hub API Endpoints**: `https://github.com/huggingface/hub-docs/blob/main/docs/hub/api.md`
+- **Hugging Face Hub Security**: `https://huggingface.co/docs/hub/security`
+- **Hugging Face Hub Organizations**: `https://huggingface.co/docs/hub/organizations`
+- **Hugging Face Hub Contribution**: `https://huggingface.co/docs/huggingface_hub/main/en/contribute`
+- **Hugging Face Hub Cache System**: `https://huggingface.co/docs/huggingface_hub/main/en/cache`
+- **Hugging Face Hub Enterprise**: `https://github.com/huggingface/hub-docs/blob/main/docs/hub/api.md#resource-groups-api`
+- **Hugging Face Hub Model Alignment**: `https://www.philschmid.de/rl-with-llms-in-2025-dpo`
 
 ### Scientific Computing & Research
 - **Julia (Language)**: `https://docs.julialang.org/`
@@ -557,6 +579,18 @@ This guide lists various documentation sources that can be configured in Cursor'
 - **WebGPU (Next-gen WebGL)**: `https://webgpufundamentals.org/`
 - **SQL Server Internals (Deep database voodoo)**: `https://www.sqlskills.com/sql-server-resources/`
 - **High-Performance APIs (Book, but worth it)**: `https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321`
+- **MDN Web Docs**: `https://developer.mozilla.org`
+- **React Documentation**: `https://reactjs.org/docs/getting-started.html`
+- **Vue.js Documentation**: `https://vuejs.org/guide/introduction.html`
+- **Node.js Documentation**: `https://nodejs.org/en/docs/`
+- **Python Documentation**: `https://docs.python.org/3/`
+- **Django Documentation**: `https://docs.djangoproject.com/en/stable/`
+- **PostgreSQL Documentation**: `https://www.postgresql.org/docs/`
+- **Git Documentation**: `https://git-scm.com/doc`
+- **Docker Documentation**: `https://docs.docker.com/`
+- **Tailwind CSS Documentation**: `https://tailwindcss.com/docs`
+- **TypeScript Documentation**: `https://www.typescriptlang.org/docs/`
+- **Go Documentation**: `https://go.dev/doc/`
 
 ### Tooling & DevOps
 - **dotTrace (Profiling C# apps)**: `https://www.jetbrains.com/help/profiler/Getting_Started.html`
